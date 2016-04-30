@@ -1,0 +1,13 @@
+{
+  "name": "shady-database",
+  "description": "Shady Business database functions",
+  "version": "0.0.3",
+  "contributors": [ ],
+  "dependencies": {
+    "cassandra-driver": "3.0.2",
+    "underscore": "1.8.3",
+    "async": "2.0.0-rc.3"
+  },
+  "main": "./lib",
+  "readmeFilename": "README.md"
+}
