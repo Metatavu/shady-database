@@ -1,7 +1,7 @@
 {
   "name": "shady-database",
   "description": "Shady Business database functions",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "contributors": [ ],
   "dependencies": {
     "cassandra-driver": "3.0.2",
